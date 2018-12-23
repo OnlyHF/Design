@@ -36,5 +36,6 @@ public class Client {
 		flyweight1.operation("A");
 		flyweight2.operation("A");
 		flyweight3.operation("B");
+		// second commit test
 	}
 }
